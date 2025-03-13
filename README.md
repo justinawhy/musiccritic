@@ -37,7 +37,7 @@ How to Use This App
 
 <img width="1440" alt="Kanye_West" src="https://github.com/user-attachments/assets/3c40d218-8c09-4e2f-8a97-c0167ed078d7" />
 <img width="1440" alt="Frank_Sinatra" src="https://github.com/user-attachments/assets/27371a2d-2955-4795-a5f1-36cede7dc63a" />
-<img width="1134" alt="Slipknot" src="https://github.com/user-attachments/assets/eeb9af1b-ec56-4353-90a9-b19ab72467d4" />
+<img width="1440" alt="Slipknot" src="https://github.com/user-attachments/assets/eeb9af1b-ec56-4353-90a9-b19ab72467d4" />
 
 
 
