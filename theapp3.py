@@ -8,10 +8,10 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-GENIUS_API_KEY = os.getenv("GENIUS_API_KEY")
+GENIUS_API_KEY = st.secrets["GENIUS_API_KEY"]
 genius = lyricsgenius.Genius(GENIUS_API_KEY, remove_section_headers=True, skip_non_songs=True, timeout=10)
 
-HUGGINGFACE_API_KEY = os.getenv("HUGGINGFACE_API_KEY")
+HUGGINGFACE_API_KEY = st.secrets["HUGGINGFACE_API_KEY"]
 os.environ["HUGGINGFACEHUB_API_TOKEN"] = HUGGINGFACE_API_KEY 
 
 
