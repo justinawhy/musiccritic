@@ -1,0 +1,5 @@
+streamlit
+lyricsgenius
+langchain
+langchain-huggingface
+python-dotenv
